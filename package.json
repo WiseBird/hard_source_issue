@@ -1,0 +1,13 @@
+{
+  "name": "basic_ts_webpack",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "autoprefixer": "7.1.1",
+    "hard-source-webpack-plugin": "0.4.6",
+    "postcss-loader": "2.0.6",
+    "to-string-loader": "1.1.5",
+    "webpack": "2.6.1"
+  }
+}
